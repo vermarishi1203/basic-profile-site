@@ -1,5 +1,5 @@
 .site-header {
-    background-color: #795548;
+    background-color: #448dff;
     color: white;
     height: 100vh;
     font-family: monospace;
@@ -17,11 +17,11 @@
     border-radius: 50%;
     height: 200px;
     width: 200px;
-    box-shadow: #2b0b00 2px 5px 5px;
+    box-shadow: #042251 2px 5px 5px;
 }
 
 .instagram-link {
-    color: white;
+    color: rgb(219, 219, 219);
     font-style: bold;
     
 }
